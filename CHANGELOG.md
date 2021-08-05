@@ -8,6 +8,17 @@ and this project adheres to
 
 ## [Unreleased]
 
+## 2.0.1 - 2021-08-04
+
+### Added
+
+- Showing
+- Example
+
+### Fixed
+
+- More Example
+
 ### Changed
 
 - Showing how release will be created
